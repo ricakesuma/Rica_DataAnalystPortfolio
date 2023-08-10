@@ -3,4 +3,4 @@ These are my Data Analyst and Visualization Portfolio
 
 # List of Portfolio
 
-- Retail Online Shop https://github.com/ricakesuma/Retail-Online-Shop
+- <a href="https://github.com/ricakesuma/Retail-Online-Shop">Retail Online Shop
